@@ -1,0 +1,15 @@
+﻿{ "quiz_title":"Quiz Pré-présentiel du chapitre",
+     "quiz_title2":"1-Introduction",
+     "quiz_id":1,
+     "quiz_n_questions":20,
+     "quiz_n_questionsMax":33,
+     "answers_file_name":"answersdemo13",
+     "question_file_name":"questiondemo13",
+      "SubLines":[
+         "Vous venez de terminer le e-learning du chapitre « Introduction » du Parcours de Préparation à la certification PMP® ",
+         "Avant d’assister à votre première journée de formation en présentiel, il est important que vous cherchiez à tester vos connaissances à travers ce Quizz de 10 questions sur ce chapitre, sans limite de temps. ",
+         "Vous pourrez refaire ce test autant de fois que vous le désirez. ",
+         "Bon quiz !"
+      ]
+   }
+ 
