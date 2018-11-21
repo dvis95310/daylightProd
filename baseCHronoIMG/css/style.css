@@ -243,7 +243,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e6791c', end
 }
 .questImg{
 
-	float:left;
+	width: 90%;
    
 }
 .middleWidth {
